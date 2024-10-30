@@ -1,0 +1,3 @@
+[submodule "Quarto"]
+	path = Quarto
+	url = git@github.com:smzlogoj/Quarto.git
